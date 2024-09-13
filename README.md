@@ -21,3 +21,5 @@ This website showcases information about the movie Forrest Gump. It includes sec
 ## External CSS
 
 All styling is managed through the external CSS file `style.css`, which includes rules for layout, colors, typography, and responsive design.
+
+!!The Trailer is too large to upload to the Github
